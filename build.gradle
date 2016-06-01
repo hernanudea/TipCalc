@@ -29,5 +29,5 @@ ext {
     compileSdkVersion = 23
 
     supportLibraryVersion = '23.3.0'
-//    butterknifeVersion '7.0.1'
+    butterknifeVersion = '7.0.1'
 }
